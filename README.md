@@ -1,1 +1,0 @@
-&lt;img src=&quot;https://www.codewars.com/users/AmourBien/badges/large&quot; alt=&quot;Amour Bien Codewars Badge&quot;&gt;
