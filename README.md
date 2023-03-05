@@ -4,4 +4,5 @@
 <ul>
   <li> React TS </li>
   <li> JAVA SPRING </li>
+  <li> Algo </li>
 </ul>
